@@ -5,10 +5,10 @@ chardet==3.0.4
 docutils==0.14
 idna==2.7
 imagesize==1.0.0
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.0
 packaging==17.1
-Pygments==2.2.0
+Pygments==2.7.4
 pyparsing==2.2.0
 pytz==2018.5
 requests==2.19.1
